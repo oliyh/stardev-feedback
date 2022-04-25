@@ -1,10 +1,12 @@
 # stardev-feedback
-Capturing feedback for https://stardev.io
+Feedback for https://stardev.io
 
 ## High fives
 
 If you enjoyed using stardev and would like to support the project, it would be great if you could tweet / facebook / reddit / etc about it!
 If you include my twitter `@oliyh` then I will get to see it, too :)
+
+The project does have server costs and I develop it in my free time so if you would like to help make that more sustainable then you can [:heart: Sponsor](https://github.com/sponsors/oliyh) the project.
 
 ## Issues
 
