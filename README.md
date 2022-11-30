@@ -10,6 +10,13 @@ The project does have server costs and I develop it in my free time so if you wo
 
 ## Issues
 
+### Common issues
+
+#### My page says "This record has been archived"
+There was an issue reading your profile from Github which made it appear that your Github account had been deleted. Press the "Re-sync" link at the bottom of the page and you will be able to request a re-sync of your profile which should resolve the issue.
+
+### Other issues
+
 If you find something that seems wrong please tell me about it by [creating an issue](https://github.com/oliyh/stardev-feedback/issues/new). Including links to stardev/github or screenshots will really help me diagnose it.
 
 ## Feature requests
