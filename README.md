@@ -1,6 +1,8 @@
 # stardev-feedback
 Feedback for https://stardev.io
 
+📯 Github syncing has been paused while the index is rebuilt using Github's 'next id'. This should be complete by approx 16th May 📯
+
 ## High fives
 
 If you enjoyed using stardev and would like to support the project, it would be great if you could tweet / facebook / reddit / etc about it!
