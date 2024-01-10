@@ -13,8 +13,15 @@ The project does have server costs and I develop it in my free time so if you wo
 
 ### Common issues
 
+#### My repo is marked with the incorrect language
+The repo language is read from Github. which uses a library called Linguist to calculate it. You can give Linguist hints - see the [README](https://github.com/github-linguist/linguist).
+
 #### My page says "This record has been archived"
-There was an issue reading your profile from Github which made it appear that your Github account had been deleted. Press the "Re-sync" link at the bottom of the page and you will be able to request a re-sync of your profile which should resolve the issue.
+There was an issue reading your account from Github which made it appear that your Github account had been deleted. Press the "Re-sync" link at the bottom of the page and you will be able to request a re-sync of your profile which should resolve the issue.
+
+#### An account or repo is missing from the rankings
+It may be that the account was archived. If it is your account, see above. If it is not, it should be corrected automatically shortly.
+The other reason could be due to misclassification of the repo language. If it is your account, see above.
 
 ### Other issues
 
