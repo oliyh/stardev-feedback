@@ -23,6 +23,10 @@ There was an issue reading your account from Github which made it appear that yo
 It may be that the account was archived. If it is your account, see above. If it is not, it should be corrected automatically shortly.
 The other reason could be due to misclassification of the repo language. If it is your account, see above.
 
+#### My location is wrong
+stardev uses the technology behind [openstreetmap.org](https://www.openstreetmap.org/) for geocoding. If OSM cannot match your location as it appears on Github, stardev might have no location or the wrong location for your account.
+Try to adjust it so that OSM shows the correct result, and then resync your profile. If your Github location can be matched on OSM but is wrong on stardev, please raise an issue.
+
 ### Other issues
 
 If you find something that seems wrong please tell me about it by [creating an issue](https://github.com/oliyh/stardev-feedback/issues/new). Including links to stardev/github or screenshots will really help me diagnose it.
